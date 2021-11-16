@@ -34,3 +34,7 @@ app.mainloop()
 ```
 
 ![image](image/01_img.png)
+
+### RUN: python3 02_notepad.py
+
+![image](image/02_img.png)
